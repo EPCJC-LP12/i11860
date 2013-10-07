@@ -1,0 +1,24 @@
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\bin\Debug\Ex2.exe
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\bin\Debug\Ex2.pdb
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\bin\Debug\Ex2.xml
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.Form1.resources
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.Resources.resources
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.vbproj.GenerateResource.Cache
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.exe
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.xml
+C:\Users\i11866\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.pdb
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\obj\Debug\Ex2.exe
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\obj\Debug\Ex2.xml
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\obj\Debug\Ex2.pdb
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\bin\Debug\Ex2.exe
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\bin\Debug\Ex2.xml
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\obj\Debug\Ex2.Resources.resources
+C:\Users\i11866\Documents\GitHub\i11866\Ex2\Ex2\obj\Debug\Ex2.vbproj.GenerateResource.Cache
+F:\Ex2\Ex2\bin\Debug\Ex2.exe.config
+F:\Ex2\Ex2\obj\Debug\Ex2.exe
+F:\Ex2\Ex2\obj\Debug\Ex2.xml
+F:\Ex2\Ex2\obj\Debug\Ex2.pdb

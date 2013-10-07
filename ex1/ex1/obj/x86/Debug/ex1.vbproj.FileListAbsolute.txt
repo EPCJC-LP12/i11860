@@ -1,0 +1,11 @@
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\bin\Debug\ex1.exe
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\bin\Debug\ex1.pdb
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\bin\Debug\ex1.xml
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\ex1.Form1.resources
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\ex1.Resources.resources
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\ex1.exe
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\ex1.xml
+C:\Documents and Settings\i11904\Os meus documentos\GitHub\i11904\revisao\ex1\ex1\obj\x86\Debug\ex1.pdb
